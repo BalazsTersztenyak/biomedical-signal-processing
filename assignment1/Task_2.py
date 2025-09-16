@@ -1,7 +1,8 @@
 import numpy as np
 import os
 
-folder = "Data/wearable-device-dataset-from-induced-stress-and-structured-exercise-sessions-1.0.1/Wearable_Dataset/AEROBIC/f01/"  # <-- change this
+# Change this to the appropriate folder path
+folder = "Data/wearable-device-dataset-from-induced-stress-and-structured-exercise-sessions-1.0.1/Wearable_Dataset/AEROBIC/f01/"
 
 signals = ["ACC", "BVP", "EDA", "HR", "IBI", "tags", "TEMP"]
 
