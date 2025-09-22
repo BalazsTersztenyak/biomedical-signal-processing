@@ -1,6 +1,8 @@
 import numpy as np
 import os
 
+# Our dataset source: https://physionet.org/content/wearable-device-dataset/1.0.1/
+
 # Change this to the appropriate folder path
 folder = "Data/wearable-device-dataset-from-induced-stress-and-structured-exercise-sessions-1.0.1/Wearable_Dataset/AEROBIC/f01/"
 
